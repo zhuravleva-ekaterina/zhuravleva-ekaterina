@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="100"/>
 </div>
 <h1> <div id="header" align="center">
-  hey there
+  Hi! My name is Kate
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
   
