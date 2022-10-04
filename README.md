@@ -53,26 +53,26 @@ This is a list that I passed and links to the certificates I received:
   - [Basics of statistics](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
 </details>
   
-   <details>
+  <details>
 <summary>Python</summary>
 <br>
-    - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)   
+  - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)   
 </details>
   
-      <details>
+  <details>
 <summary>Data visualization</summary>
 <br>
   - [Basics of Power BI](https://proskilling.ru/pl/262767526) (Aug 2022) (Proskilling)
   - BI developer. Basics of working in Tableau (Sep 2022) (Stepik ) 
 </details>
   
-      <details>
+  <details>
 <summary>Business processes</summary>
 <br>
-   - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian))    
+  - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian))    
 </details>
   
-      <details>
+  <details>
 <summary>Professional development</summary>
 <br>
   - [Basics of internet marketing](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
