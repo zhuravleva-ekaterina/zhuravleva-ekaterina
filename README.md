@@ -39,20 +39,44 @@ After 4 years of working in geoscience, I decided to delve into data analysis. I
 ---
 ### Certificates and courses
 This is a list that I passed and links to the certificates I received:
-  - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
-  - [SQL](https://www.sololearn.com/Certificate/CT-9VVPIY2W/png) (Jun 2022) (Sololearn)
-  - [Basics of internet marketing](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
-  - [Basics of statistics](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
-  - [Basics of Power BI](https://proskilling.ru/pl/262767526) (Aug 2022) (Proskilling)
-  - BI developer. Basics of working in Tableau (Sep 2022) (Stepik ) 
-  - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)
-  - [Big Data and Data Science: Start the dive from scratch](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
-  - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian))
-  - Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
-  - Excel for work (Jun 2022) (Practicum Yandex)
   
   <details>
-<summary>How do I dropdown?</summary>
+<summary>SQL</summary>
 <br>
-This is how you dropdown.
+  - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
+  - [SQL](https://www.sololearn.com/Certificate/CT-9VVPIY2W/png) (Jun 2022) (Sololearn)
+</details>
+
+  <details>
+<summary>Basics of statistics</summary>
+<br>
+ - [Basics of statistics](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
+</details>
+  
+    <details>
+<summary>Python</summary>
+<br>
+    - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)   
+</details>
+  
+      <details>
+<summary>Data visualization</summary>
+<br>
+  - [Basics of Power BI](https://proskilling.ru/pl/262767526) (Aug 2022) (Proskilling)
+  - BI developer. Basics of working in Tableau (Sep 2022) (Stepik ) 
+</details>
+  
+      <details>
+<summary>Business processes</summary>
+<br>
+   - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian))    
+</details>
+  
+      <details>
+<summary>Professional development</summary>
+<br>
+  - [Basics of internet marketing](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
+  - [Big Data and Data Science: Start the dive from scratch](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
+  - Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
+  - Excel for work (Jun 2022) (Practicum Yandex)  
 </details>
