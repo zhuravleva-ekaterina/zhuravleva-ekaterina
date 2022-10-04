@@ -44,6 +44,7 @@ This is a list that I passed and links to the certificates I received:
 <summary>SQL</summary>
 <br>
   - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
+    
   - [SQL](https://www.sololearn.com/Certificate/CT-9VVPIY2W/png) (Jun 2022) (Sololearn)
 </details>
 
@@ -63,6 +64,7 @@ This is a list that I passed and links to the certificates I received:
 <summary>Data visualization</summary>
 <br>
   - [Basics of Power BI](https://proskilling.ru/pl/262767526) (Aug 2022) (Proskilling)
+    
   - BI developer. Basics of working in Tableau (Sep 2022) (Stepik ) 
 </details>
   
@@ -75,12 +77,14 @@ This is a list that I passed and links to the certificates I received:
   <details>
 <summary>Professional development</summary>
 <br> 
-    <code>
   -  [Basics of internet marketing](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
+    
   -  [Big Data and Data Science: Start the dive from scratch](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
+    
   -  Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
+    
   -  Excel for work (Jun 2022) (Practicum Yandex)  
-    </code>
+
 </details>
 
 
