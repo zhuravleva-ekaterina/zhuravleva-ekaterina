@@ -35,3 +35,11 @@ After 4 years of working in geoscience, I decided to delve into data analysis. I
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
   <img src="https://optimacons.info/upload/services/services-model-aris.jpg" title="ARIS" alt="ARIS" width="60" height="60"/>&nbsp;
 </div>
+
+---
+### Certificates and courses
+This is a list that I passed and links to the certificates I received:
+  - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2014) (Far Eastern Federal University)
+  
+  
+  (Stepik - Bioinformatics Institute)
