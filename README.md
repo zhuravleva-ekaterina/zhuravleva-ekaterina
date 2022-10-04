@@ -22,7 +22,7 @@ After 4 years of working in geoscience, I decided to delve into data analysis. I
 
 - :zap: I spend my free time reading scientific articles and solving problems
 
-[comment]: <>- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+#- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   
 ---
 
