@@ -47,6 +47,6 @@ This is a list that I passed and links to the certificates I received:
   - BI developer. Basics of working in Tableau (Sep 2022) (Stepik ) 
   - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)
   - [Big Data and Data Science: Start the dive from scratch](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
-  - Analysis and modeling of business processes (Aug 2022) (Openedu -  National Research University Higher School of Economics (Russian))
+  - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian))
   - Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
   - Excel for work (Jun 2022) (Practicum Yandex)
