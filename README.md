@@ -50,10 +50,10 @@ This is a list that I passed and links to the certificates I received:
   <details>
 <summary>Basics of statistics</summary>
 <br>
- - [Basics of statistics](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
+  - [Basics of statistics](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
 </details>
   
-    <details>
+   <details>
 <summary>Python</summary>
 <br>
     - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)   
