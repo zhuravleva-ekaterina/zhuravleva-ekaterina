@@ -39,7 +39,8 @@ After 4 years of working in geoscience, I decided to delve into data analysis. I
 ---
 ### Certificates and courses
 This is a list that I passed and links to the certificates I received:
-  - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2014) (Far Eastern Federal University)
+  - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
+  - [SQL](https://www.sololearn.com/Certificate/CT-9VVPIY2W/png) (Jun 2022) (Sololearn)
   
   
   (Stepik - Bioinformatics Institute)
