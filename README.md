@@ -99,6 +99,6 @@ This is a list that I passed and links to the certificates I received:
 </details>
 
 ---
-## You can view my portfolio in the repository or follow the link below
+### You can view my portfolio in the repository or follow the link below
 
 [My SQL portfolio](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
