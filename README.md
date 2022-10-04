@@ -50,3 +50,9 @@ This is a list that I passed and links to the certificates I received:
   - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian))
   - Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
   - Excel for work (Jun 2022) (Practicum Yandex)
+  
+  <details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
