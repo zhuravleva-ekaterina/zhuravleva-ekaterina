@@ -80,3 +80,10 @@ This is a list that I passed and links to the certificates I received:
   - Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
   - Excel for work (Jun 2022) (Practicum Yandex)  
 </details>
+
+  
+  <details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</ddefwefcccc>
