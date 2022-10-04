@@ -79,7 +79,7 @@ This is a list that I passed and links to the certificates I received:
   <details>
 <summary>Business processes</summary>
 <br>
-    
+
   - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian)) 
     
 </details>
@@ -87,7 +87,6 @@ This is a list that I passed and links to the certificates I received:
   <details>
 <summary>Professional development</summary>
 <br> 
-    
   -  [Basics of internet marketing](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
     
   -  [Big Data and Data Science: Start the dive from scratch](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
