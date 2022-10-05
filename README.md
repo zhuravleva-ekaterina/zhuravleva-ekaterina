@@ -35,7 +35,7 @@ After 4 years of working in geoscience, I decided to delve into data analysis. I
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
   <img src="https://optimacons.info/upload/services/services-model-aris.jpg" title="ARIS" alt="ARIS" width="60" height="60"/>&nbsp;
   
-  <img src="https://www.codewars.com/users/zhuravleva-ekaterina/badges/large" title="codewars" alt="codewars" width="300" height="300"/>&nbsp;
+  <img src="https://www.codewars.com/users/zhuravleva-ekaterina/badges/large" title="codewars" alt="codewars" width="300" height=60"/>&nbsp;
   
 [My CodeWars profile](https://www.codewars.com/users/zhuravleva-ekaterina)
 
