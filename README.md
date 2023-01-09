@@ -16,15 +16,15 @@ On December 16, 2022, I passed professional retraining with honors at the GBOU D
   
 I am currently studying at Yandex.Practicum, profession "Data Analyst".
   
-  - :computer: I unload, transform, and clean up data using SQL queries.
+[comment]: <>  - :computer: I unload, transform, and clean up data using SQL queries.
 
-  - :memo: I calculate the key metrics of the company's work and evaluate their significance.
+[comment]: <>  - :memo: I calculate the key metrics of the company's work and evaluate their significance.
   
-  - :chart_with_upwards_trend: I help businesses make decisions based on data
+[comment]: <>  - :chart_with_upwards_trend: I help businesses make decisions based on data
   
-  - :bar_chart: Creating dashboards using Tableau
+[comment]: <>  - :bar_chart: Creating dashboards using Tableau
 
-- :zap: I spend my free time reading scientific articles and solving problems
+[comment]: <> - :zap: I spend my free time reading scientific articles and solving problems
 
 [comment]: < - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)>
   
