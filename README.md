@@ -11,6 +11,8 @@
   I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Lomonosov Moscow State University, 2020), majoring in hydrogeologist engineer and Analysis. I had worked for 4 years in geoscience playing roles as Data Processing Engineer, Head of Department.
 
 After 4 years of working in geoscience, I decided to delve into data analysis. I started studying data analysis in January 2022 until now.
+
+On December 16, 2022, I passed professional retraining with honors at the GBOU DPO Center “Professional” under the program “Data Analyst”.
   
   - :computer: I unload, transform, and clean up data using SQL queries.
 
