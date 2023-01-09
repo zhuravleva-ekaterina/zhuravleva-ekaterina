@@ -14,6 +14,8 @@ After 4 years of working in geoscience, I decided to delve into data analysis. I
 
 On December 16, 2022, I passed professional retraining with honors at the GBOU DPO Center “Professional” under the program “Data Analyst”.
   
+I am currently studying at Yandex.Practicum, profession "Data Analyst".
+  
   - :computer: I unload, transform, and clean up data using SQL queries.
 
   - :memo: I calculate the key metrics of the company's work and evaluate their significance.
