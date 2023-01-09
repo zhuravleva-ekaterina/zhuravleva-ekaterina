@@ -106,3 +106,4 @@ This is a list that I passed and links to the certificates I received:
 ### You can view my portfolio in the repository or follow the link below
 
 [My SQL portfolio](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
+[My Data Analyst portfolio](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
