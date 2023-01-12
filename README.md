@@ -65,7 +65,8 @@ This is a list that I passed and links to the certificates I received:
 <summary>Python</summary>
 <br>
     
-  - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)   
+  - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)
+  - ["Python Generation": a course for beginners](https://stepik.org/cert/1757321)(Nov 2022)(Stepik - BEEGEES School)
     
 </details>
   
