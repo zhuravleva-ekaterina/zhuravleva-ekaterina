@@ -1,14 +1,19 @@
 
-### :woman_technologist: About Me :
-  I am an Analyst from Russia.
-  I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Lomonosov Moscow State University, 2020), majoring in hydrogeologist engineer and Analysis. I had worked for 4 years in geoscience playing roles as Data Processing Engineer, Head of Department.
-
-After 4 years of working in geoscience, I decided to delve into data analysis. I started studying data analysis in January 2022 until now.
-
-On December 16, 2022, I passed professional retraining with honors at the GBOU DPO Center “Professional” under the program “Data Analyst”.
+### :woman_technologist: Обо мне :
+  В 2020 году я с отличием окончила магистратуру МГУ им. М.В.Ломоносова по специальности инженер-геолог.
   
-I am currently studying at Yandex.Practicum, profession "Data Analyst".
+  Я проработала 4 года, занимаясь анализом геологических данных, и поняла, что не хочу дальше развиваться в направлении геология. Мне по душе работа с большими объемами данных, программированием, аналитикой и помощь бизнесу в принятии решений.
+
+Для смены профессии я прошла профессиональную переподготовку, а сейчас набираюсь опыта в учебных проектах на Яндекс.Практикуме. Параллельно самостоятельно решаю задачи по SQL и изучаю анализ данных, читаю научную литературу.
+
+---
+### Вы можете просмотреть мое портфолио в репозитории или перейти по ссылке ниже
+
+[My SQL portfolio](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
   
+[My Data Analyst portfolio](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
+
+
 [comment]: <  - :computer: I unload, transform, and clean up data using SQL queries.>
 
 [comment]: <  - :memo: I calculate the key metrics of the company's work and evaluate their significance.>
@@ -23,7 +28,7 @@ I am currently studying at Yandex.Practicum, profession "Data Analyst".
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Навыки и Инструменты :
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
@@ -40,71 +45,31 @@ I am currently studying at Yandex.Practicum, profession "Data Analyst".
 </div>
 
 ---
-### Certificates and courses
-This is a list that I passed and links to the certificates I received:
-  
-  <details>
-<summary>SQL</summary>
-<br>
+### Сертификаты и курсы
     
-  - [Interactive SQL Simulator](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
+  - [Интерактивный тренажер по SQL](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
     
   - [SQL](https://www.sololearn.com/Certificate/CT-9VVPIY2W/png) (Jun 2022) (Sololearn)
     
-</details>
-
-  <details>
-<summary>Basics of statistics</summary>
-<br>
+  - [Основы статистики](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
     
-  - [Basics of statistics](https://stepik.org/cert/1682882) (Sep 2022) (Stepik - Bioinformatics Institute)
+  - [Программирование на Python](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)
+  - ["Поколение Python": курс для начинающих](https://stepik.org/cert/1757321)(Nov 2022)(Stepik - BEEGEES School)
     
-</details>
-  
-  <details>
-<summary>Python</summary>
-<br>
-    
-  - [Python Programming](https://stepik.org/cert/1632376) (Aug 2022) (Stepik - Bioinformatics Institute)
-  - ["Python Generation": a course for beginners](https://stepik.org/cert/1757321)(Nov 2022)(Stepik - BEEGEES School)
-    
-</details>
-  
-  <details>
-<summary>Data visualization</summary>
-<br>
-    
-  - [Basics of Power BI](https://proskilling.ru/pl/262767526) (Aug 2022) (Proskilling)
+  - [Основы Power BI](https://proskilling.ru/pl/262767526) (Aug 2022) (Proskilling)
     
   - BI developer. Basics of working in Tableau (Sep 2022) (Stepik)
     
-</details>
-  
-  <details>
-<summary>Business processes</summary>
-<br>
-
-  - Analysis and modeling of business processes (Aug 2022) (Openedu - Higher School of Economics (Russian)) 
+  - Анализ и моделирование бизнес процессов (Aug 2022) (Openedu - Higher School of Economics (Russian)) 
     
-</details>
-  
-  <details>
-<summary>Professional development</summary>
-<br> 
+  -  [Основы интернет маркетинга](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
     
-  -  [Basics of internet marketing](https://learndigital.withgoogle.com/89254718-fa8c-44af-83bc-10c72b5d9366) (Sep 2022) (Google) 
+  -  [Big Data and Data Science: начни погружение с нуля](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
     
-  -  [Big Data and Data Science: Start the dive from scratch](https://stepik.org/cert/1629025) (Aug 2022) (Stepik - Russian code school) 
+  -  Методология обработки и анализа данных (Aug 2022) (Coursera - IBM)
     
-  -  Methodology of data processing and analysis (Aug 2022) (Coursera - IBM)
-    
-  -  Excel for work (Jun 2022) (Practicum Yandex)  
+  -  Excel для работы (Jun 2022) (Practicum Yandex)  
 
 </details>
 
----
-### You can view my portfolio in the repository or follow the link below
 
-[My SQL portfolio](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
-  
-[My Data Analyst portfolio](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
