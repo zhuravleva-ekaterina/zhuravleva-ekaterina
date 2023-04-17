@@ -28,14 +28,18 @@
   
 ---
 
-### :hammer_and_wrench: Навыки и Инструменты :
-<div id="header" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/logo/Tableau/blob/master/images/logo.svg" title="Tableau" alt="Tableau" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="60" height="60"/>&nbsp;
-  <img src="https://optimacons.info/upload/services/services-model-aris.jpg" title="ARIS" alt="ARIS" width="60" height="60"/>&nbsp;
+### Навыки и Инструменты :
+<div id="header" align="left">
+  <img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" title="MySQL" alt="Python" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" title="PostgreSQL" alt="PostgreSQL" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465"  width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/e70497c8ce44be13c11100d9ca6cd835a78ef716df5b4385c44ada096dec357a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d2532333043353541352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363697079266c6f676f436f6c6f723d257768697465" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/b310667470594171440f9b80f624787ea58555296d88af177788509b0d73a40b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/1b1a1740cefbf2af3fa3573461dfaa66f314a9c10671d00293060d455e1659a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d5461626c656175266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
+
   
 [My CodeWars profile](https://www.codewars.com/users/zhuravleva-ekaterina)
   
