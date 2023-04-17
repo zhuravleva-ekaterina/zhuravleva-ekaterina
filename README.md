@@ -16,9 +16,9 @@
 
 ### Мое портфолио: 
 
-[My SQL portfolio](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
+[Портфолио SQL](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
   
-[My Data Analyst portfolio](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
+[Портфолио "Аналитик данных"](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
 
 
 [comment]: <  - :computer: I unload, transform, and clean up data using SQL queries.>
