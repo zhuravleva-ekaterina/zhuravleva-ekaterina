@@ -6,19 +6,17 @@
 
 Для смены профессии в декабре 2022 я окончила профессиональную переподготовку, а сейчас набираюсь опыта в учебных проектах на Яндекс.Практикуме. Параллельно самостоятельно решаю задачи по SQL и изучаю анализ данных, читаю научную литературу.
 
+**Посмотреть портфолио можно по ссылке ниже или в репозитории:**
+
+[Портфолио SQL](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
+  
+[Портфолио "Аналитик данных"](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
+
 ### Связаться со мной: 
 
   <a href="https://t.me/ekaterina96zhuravleva">
     <img src="https://pbs.twimg.com/profile_banners/884842229730344961/1500142793/1500x500" alt="Telegram" width="100" height="25"/>
   </a>
-
-
-
-### Мое портфолио: 
-
-[Портфолио SQL](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
-  
-[Портфолио "Аналитик данных"](https://github.com/zhuravleva-ekaterina/data_analyst_portfolio)
 
 
 [comment]: <  - :computer: I unload, transform, and clean up data using SQL queries.>
