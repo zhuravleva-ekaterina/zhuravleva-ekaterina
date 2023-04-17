@@ -6,7 +6,7 @@
 
 Для смены профессии в декабре 2022 я окончила профессиональную переподготовку, а сейчас набираюсь опыта в учебных проектах на Яндекс.Практикуме. Параллельно самостоятельно решаю задачи по SQL и изучаю анализ данных, читаю научную литературу.
 
-### Связаться со мной 
+### Связаться со мной: 
 
   <a href="https://t.me/ekaterina96zhuravleva">
     <img src="https://pbs.twimg.com/profile_banners/884842229730344961/1500142793/1500x500" alt="Telegram" width="100" height="25"/>
@@ -14,7 +14,7 @@
 
 
 
-### Мое портфолио 
+### Мое портфолио: 
 
 [My SQL portfolio](https://github.com/zhuravleva-ekaterina/MY-SQL-portfolio)
   
@@ -35,7 +35,7 @@
   
 
 
-### Навыки и Инструменты 
+### Навыки и Инструменты: 
 <div id="header" align="left">
   <img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" title="MySQL" alt="Python" width="100" height="25"/>&nbsp;
   <img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" title="PostgreSQL" alt="PostgreSQL" width="100" height="25"/>&nbsp;
@@ -47,14 +47,14 @@
   <img src="https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
   <img src="https://camo.githubusercontent.com/1b1a1740cefbf2af3fa3573461dfaa66f314a9c10671d00293060d455e1659a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d5461626c656175266c6f676f436f6c6f723d7768697465" width="100" height="25"/>&nbsp;
 
-<div>  
+##   
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuravleva-ekaterina&layout=compact)](https://github.com/zhuravleva-ekaterina/github-readme-stats)
 
 </div> 
 
 
-### Сертификаты и курсы
+### Сертификаты и курсы:
     
   - [Интерактивный тренажер по SQL](https://stepik.org/cert/1638703) (Aug 2022) (Stepik - Far Eastern Federal University)
     
