@@ -19,6 +19,10 @@
   <a href="https://t.me/ekaterina96zhuravleva">
     <img src="https://pbs.twimg.com/profile_banners/884842229730344961/1500142793/1500x500" alt="Telegram" width="100" height="25"/>
   </a>
+  
+   <a href="https://www.linkedin.com/in/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D1%91%D0%B2%D0%B0-a9388a276/">
+    <img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" width="100" height="25"/>
+  </a>
 
 
 [comment]: <  - :computer: I unload, transform, and clean up data using SQL queries.>
